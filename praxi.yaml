@@ -1,0 +1,15 @@
+version: 2.0
+
+id: learning-productivity
+
+about:
+  title: Learning Productivity
+  description: Techniques and tips to improve productivity
+
+contacts:
+  - type: author
+    name: Gonzalo Vazquez
+    email: gonzalovazquez010@gmail.com
+
+priority:
+  - type: low
