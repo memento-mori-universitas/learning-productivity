@@ -4,7 +4,7 @@
 
 - [Book](https://www.amazon.ca/Deep-Work-Focused-Success-Distracted/dp/1455586692)
 
-#### Resources
+Resources
 
 - http://www.phd-planner.com/deep-work-tracker/
 - https://medium.com/the-crossover-cast/4-tools-to-find-your-deep-work-groove-boost-productivity-9fea7bf2795a
