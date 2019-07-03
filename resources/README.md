@@ -14,3 +14,9 @@ Resources
 -  ~~https://jeremey.blog/deep-work/~~ ~~
 -  ~~https://www.sitepoint.com/deep-work-tips-that-will-dramatically-boost-your-productivity/~~
 - https://medium.com/the-mission/willpower-doesnt-work-here-s-the-key-to-being-more-productive-according-to-neuroscience-f6c4257eb6b9
+
+Two type of tasks: maintenance vs growth
+
+Maitenance tasks are short terms obligations while growth tasks drive us to our important long term goals. They are *coulds* rather than *musts*
+
+- https://fs.blog/2017/06/habits-vs-goals/
